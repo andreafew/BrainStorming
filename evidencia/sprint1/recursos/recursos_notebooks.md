@@ -77,4 +77,4 @@ Una captura por notebook: Administrador de tareas, Rendimiento, CPU, donde diga 
 ![Virtualización habilitada](captura_apellido8_virtualizacion.png)
 
 ## 5. Observaciones
-[COMPLETAR: equipos que no cumplen, problemas encontrados, plan alternativo.]
+Equipo de Arroyo Andrea, no cumple con los requisitos mínimos acordados de RAM y GB libres
