@@ -1,8 +1,8 @@
 # Recursos del equipo: notebooks y máquinas virtuales
 
-**Consultora:** [COMPLETAR]  
+**Consultora:** BrainStorming  
 **Sprint:** 1  
-**Fecha:** [COMPLETAR]  
+**Fecha:** 09/10/2026  
 **Tarea del backlog:** Definir recursos del equipo (notebooks de integrantes, máquinas virtuales)
 
 <!-- Cómo completar este archivo:
@@ -29,17 +29,17 @@ La virtualización se ve en el Administrador de tareas, pestaña Rendimiento, CP
 
 | N.º | Integrante | Modelo | Sistema actual | RAM (GB) | Disco libre (GB) | Virtualización habilitada | Aporta máquina |
 |---|---|---|---|---|---|---|---|
-| 1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
-| 2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
-| 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
-| 4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
-| 5 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
-| 6 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
-| 7 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
-| 8 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
+| 1 | Alanis Nicolás | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
+| 2 | Arroyo Andrea | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
+| 3 | Mansilla David | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
+| 4 | Marun Susana | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
+| 5 | Miwszuk Hazahel | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
+| 6 | Lopez Salomon Federico | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
+| 7 | Perez Cristian | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
+| 8 | Veliz Julieta | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
 
 **Requisito mínimo acordado:** 8 GB de RAM y 40 GB libres.  
-**Cumplen el requisito:** [COMPLETAR] de 8.
+**Cumplen el requisito:** 2 de 8.
 
 ## 3. Asignación de máquinas virtuales
 Las dos máquinas se configuran con la misma cantidad de memoria, procesadores y disco, para que la comparación sea justa.
@@ -55,7 +55,7 @@ Una captura por notebook: Administrador de tareas, Rendimiento, CPU, donde diga 
 ### Integrante 1: [COMPLETAR apellido]
 ![Virtualización habilitada](captura_apellido1_virtualizacion.png)
 
-### Integrante 2: [COMPLETAR apellido]
+### Integrante 2: Arroyo
 ![Virtualización habilitada](captura_apellido2_virtualizacion.png)
 
 ### Integrante 3: [COMPLETAR apellido]
