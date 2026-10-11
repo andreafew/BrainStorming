@@ -17,13 +17,13 @@
 | Dirección (URL) | https://github.com/andreafew/BrainStorming |
 | Visibilidad | Privado |
 | Propietario | andreafew |
-| Fecha de creación | 09/10/2026 |
+| Fecha de creación | 10/10/2026 |
 
 ### Captura 1: página principal del repositorio
 ![Repositorio](captura_01_repositorio.png)
 
 ## 2. Equipo con acceso
-Se invitó como colaboradores a los 8 integrantes (Settings, Collaborators).
+Se invitó como colaboradores a los 7 integrantes restantes (Settings, Collaborators).
 
 | Persona | Usuario de GitHub | Rol | Invitación aceptada |
 |---|---|---|---|
@@ -34,7 +34,6 @@ Se invitó como colaboradores a los 8 integrantes (Settings, Collaborators).
 | Miwszuk Hazahel | hazahelm-coder | Developer | [Sí / No] |
 | Perez Cristian | CodePCD | Product Owner | [Sí / No] |
 | Veliz Julieta | julietavelizunpilar-oss | Developer | [Sí / No] |
-| Patricia Castilla | [COMPLETAR] | Docente | [Sí / No] |
 
 ### Captura 2: lista de colaboradores
 ![Colaboradores](captura_02_colaboradores.png)
@@ -50,7 +49,7 @@ Se invitó como colaboradores a los 8 integrantes (Settings, Collaborators).
 ### Captura 3: tablero con sus tres columnas
 ![Tablero](captura_03_tablero.png)
 
-## 4. Etiquetas y hitos (milestones)
+## 4. Etiquetas (labels) e hitos (milestones)
 Etiquetas principales: tipo de elemento (épica, historia, tarea, prueba, documento), cliente, sprint, puntos (SP) y prioridad.
 Hitos: Sprint 1 al Sprint 4, con su fecha límite.
 
