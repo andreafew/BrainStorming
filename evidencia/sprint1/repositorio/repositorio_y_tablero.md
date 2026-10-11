@@ -17,7 +17,6 @@
 | Dirección (URL) | https://github.com/andreafew/BrainStorming |
 | Visibilidad | Privado |
 | Propietario | andreafew |
-| Fecha de creación | 10/10/2026 |
 
 ### Captura 1: página principal del repositorio
 ![Repositorio](captura_01_repositorio.png)
