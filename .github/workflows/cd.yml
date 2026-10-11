@@ -1,0 +1,25 @@
+name: CD - armar informe y publicar versión
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+jobs:
+  armar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Armar PDF con pandoc
+        run: |
+          docker run --rm -v "$PWD:/data" -u "$(id -u):$(id -g)" pandoc/latex:3.2 \
+            --from markdown --pdf-engine=xelatex informe/*.md -o informe_final.pdf
+      - uses: actions/upload-artifact@v4
+        with:
+          name: informe_final
+          path: informe_final.pdf
+      - name: Publicar release con el PDF
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: informe_final.pdf

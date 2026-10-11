@@ -1,0 +1,26 @@
+name: CI - validar informe
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar estructura de archivos
+        run: |
+          test -f informe/plantilla_informe.md || (echo "Falta informe/plantilla_informe.md" && exit 1)
+          test -f plan_de_evidencias.csv || (echo "Falta plan_de_evidencias.csv" && exit 1)
+          test -d plantillas || (echo "Falta la carpeta plantillas" && exit 1)
+      - name: Verificar que cada capítulo tenga título
+        run: |
+          for f in informe/*.md; do
+            head -n 1 "$f" | grep -q '^# ' || (echo "$f no empieza con un título (# ...)" && exit 1)
+          done
+      - name: Lint de Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: 'informe/*.md'
+          config: '{"default": true, "MD013": false, "MD033": false, "MD041": false}'
