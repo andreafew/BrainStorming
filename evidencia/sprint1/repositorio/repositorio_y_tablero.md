@@ -1,8 +1,8 @@
 # Repositorio de GitHub y tablero (Project)
 
-**Consultora:** [COMPLETAR]  
+**Consultora:** BrainStorming  
 **Sprint:** 1  
-**Fecha:** [COMPLETAR]  
+**Fecha:** 09/10/2026  
 **Tarea del backlog:** Crear repositorio GitHub y Project (tablero)
 
 <!-- Cómo completar este archivo:
@@ -13,11 +13,11 @@
 ## 1. Repositorio
 | Dato | Valor |
 |---|---|
-| Nombre del repositorio | [COMPLETAR] |
-| Dirección (URL) | [COMPLETAR] |
+| Nombre del repositorio | BrainStorming |
+| Dirección (URL) | https://github.com/andreafew/BrainStorming |
 | Visibilidad | Privado |
-| Propietario | [COMPLETAR usuario] |
-| Fecha de creación | [COMPLETAR] |
+| Propietario | andreafew |
+| Fecha de creación | 09/10/2026 |
 
 ### Captura 1: página principal del repositorio
 ![Repositorio](captura_01_repositorio.png)
@@ -27,14 +27,14 @@ Se invitó como colaboradores a los 8 integrantes (Settings, Collaborators).
 
 | Persona | Usuario de GitHub | Rol | Invitación aceptada |
 |---|---|---|---|
-| Integrante 1 | [COMPLETAR] | [COMPLETAR] | [Sí / No] |
-| Integrante 2 | [COMPLETAR] | [COMPLETAR] | [Sí / No] |
-| Integrante 3 | [COMPLETAR] | [COMPLETAR] | [Sí / No] |
-| Integrante 4 | [COMPLETAR] | [COMPLETAR] | [Sí / No] |
-| Integrante 5 | [COMPLETAR] | [COMPLETAR] | [Sí / No] |
-| Integrante 6 | [COMPLETAR] | [COMPLETAR] | [Sí / No] |
-| Integrante 7 | [COMPLETAR] | [COMPLETAR] | [Sí / No] |
-| Integrante 8 | [COMPLETAR] | [COMPLETAR] | [Sí / No] |
+| Alanis Nicolás | nicktails | Scrum Master | [Sí / No] |
+| Lopez Salomon Federico | federicolopezsalomon | Developer | [Sí / No] |
+| Mansilla David | Gabi9717 | Developer | [Sí / No] |
+| Marun Susana | susanapatriciamarun-jpg | Developer | [Sí / No] |
+| Miwszuk Hazahel | hazahelm-coder | Developer | [Sí / No] |
+| Perez Cristian | CodePCD | Product Owner | [Sí / No] |
+| Veliz Julieta | julietavelizunpilar-oss | Developer | [Sí / No] |
+| Patricia Castilla | [COMPLETAR] | Docente | [Sí / No] |
 
 ### Captura 2: lista de colaboradores
 ![Colaboradores](captura_02_colaboradores.png)
@@ -42,10 +42,10 @@ Se invitó como colaboradores a los 8 integrantes (Settings, Collaborators).
 ## 3. Project (tablero)
 | Dato | Valor |
 |---|---|
-| Nombre del Project | [COMPLETAR] |
+| Nombre del Project | BrainStorming |
 | Plantilla | Board |
 | Columnas | To Do, In Progress, Done |
-| Límite de trabajo en curso (WIP) | [COMPLETAR] |
+| Límite de trabajo en curso (WIP) | 4 |
 
 ### Captura 3: tablero con sus tres columnas
 ![Tablero](captura_03_tablero.png)
@@ -61,4 +61,4 @@ Hitos: Sprint 1 al Sprint 4, con su fecha límite.
 ![Hitos](captura_05_hitos.png)
 
 ## 5. Observaciones
-[COMPLETAR: problemas, decisiones, cambios respecto de lo planificado.]
+Comenzamos con un repositorio de GitHub cuando se lanzó el proyecto, pero con el correr del tiempo y preguntas a la IA, descubrimos que se podían utilizar más herramientas y que todo nuestro trabajo podría verse más prolijo y completo, por lo que después de la última clase (09/10/2026) decidimos migrar lo que ya habíamos realizado a este nuevo repositorio y agregarle más detalle, razón por la cual, distintas actividades pueden verse como Overdue.
