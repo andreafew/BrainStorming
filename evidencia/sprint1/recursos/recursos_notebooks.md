@@ -56,7 +56,7 @@ Una captura por notebook: Administrador de tareas, Rendimiento, CPU, donde diga 
 ![Virtualización habilitada](captura_apellido1_virtualizacion.png)
 
 ### Integrante 2: Arroyo
-![Virtualización habilitada](captura_apellido2_virtualizacion.png)
+![Virtualización habilitada](captura_Arroyo_virtualizacion.png)
 
 ### Integrante 3: [COMPLETAR apellido]
 ![Virtualización habilitada](captura_apellido3_virtualizacion.png)
