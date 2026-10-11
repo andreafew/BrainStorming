@@ -9,10 +9,11 @@ Comparamos **Windows 11** y **Ubuntu** con las mismas pruebas; cada cliente tien
 ## Equipo y roles
 | Sprint | Product Owner | Scrum Master |
 |---|---|---|
-| 1 | completar | completar |
-| 2 | completar | completar |
-| 3 | completar | completar |
-| 4 | completar | completar |
+| 1 | Perez Cristian | Alanis Nicolás |
+| 2 | Arroyo Andrea | Miwszuk Hazahel |
+| 3 | Veliz Julieta | Lopez Salomon Federico |
+| 4 | Mansilla David | Marun Susana |
+
 
 ## Fechas
 Sprint 1: 09/10 · Sprint 2: 16/10 · Sprint 3: 23/10 · Sprint 4 y defensa: 30/10.
