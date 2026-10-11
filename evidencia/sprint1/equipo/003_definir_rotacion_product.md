@@ -1,24 +1,17 @@
 # 3 · Definir rotación de Product Owner y Scrum Master
 
-**Cliente:** Equipo · **Sprint:** 1 · **Responsable:** [COMPLETAR] · **Fecha:** [COMPLETAR]
+**Cliente:** Equipo · **Sprint:** 1 · 
 
 ## Qué se pidió
-Como equipo, necesitamos definir quién es Product Owner y quién Scrum Master en cada sprint, rotando los roles, para que todos pasen por ambos y la responsabilidad quede repartida.
+Como equipo, necesitamos definir quién es Product Owner y quién Scrum Master en cada sprint, rotando los roles, para que todos pasen exactamente una vez por un rol de responsabilidad.
 
 **Criterio de aceptación:** Tabla con PO y SM de cada sprint, sin repetir personas; publicada en el README.
 
-## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
-
 ## Datos y resultados
-| Dato | Valor | Fuente / fecha |
+| Sprint | Product Owner | Scrum Master |
 |---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| 1 | Perez Cristian | Alanis Nicolás |
+| 2 | Arroyo Andrea | Lopez Salomon Federico |
+| 3 | Mansilla David | Marun Susana |
+| 4 | Miwszuk Hazahel | Veliz Julieta |
 
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
-
-<!-- ![Descripción de la captura](captura_01.png) -->
-
-## Conclusión
-[COMPLETAR]
