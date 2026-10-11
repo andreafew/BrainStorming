@@ -30,7 +30,7 @@ La virtualización se ve en el Administrador de tareas, pestaña Rendimiento, CP
 | N.º | Integrante | Modelo | Sistema actual | RAM (GB) | Disco libre (GB) | Virtualización habilitada | Aporta máquina |
 |---|---|---|---|---|---|---|---|
 | 1 | Alanis Nicolás | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
-| 2 | Arroyo Andrea | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
+| 2 | Arroyo Andrea | Aspire A515-43 | Windows 11 Home Single Language | 6 GB | 19 GB | Sí | No |
 | 3 | Mansilla David | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
 | 4 | Marun Susana | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
 | 5 | Miwszuk Hazahel | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [Sí / No] | [Sí / No] |
