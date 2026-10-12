@@ -8,17 +8,10 @@ Preparar un USB booteable de Windows 11 que llegue al instalador en la máquina 
 **Criterio de aceptación:** USB arranca en la máquina virtual y llega al instalador; se registra la herramienta y la versión.
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
 
-## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+https://docs.google.com/document/d/1ViKZHVqvfYf65hCkJZ-bJEFvswJLunSYQPnZDd2zNis/edit?usp=sharing 
 
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
 
-<!-- ![Descripción de la captura](captura_01.png) -->
 
 ## Conclusión
-[COMPLETAR]
+Se preparó el USB pero la instalación de las virtuales se realiza directamente desde Hyer-v que solicita la carga del ISO para la instalación. 
