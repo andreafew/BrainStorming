@@ -2,13 +2,8 @@
 
 **Consultora:** BrainStorming  
 **Sprint:** 1  
-**Fecha:** 09/10/2026  
+**Fecha:** 10/10/2026  
 **Tarea del backlog:** Crear repositorio GitHub y Project (tablero)
-
-<!-- Cómo completar este archivo:
-1. Sacá cada captura y guardala en esta misma carpeta con el nombre indicado.
-2. Reemplazá cada [COMPLETAR] con el dato real.
-3. Borrá este comentario cuando termines. -->
 
 ## 1. Repositorio
 | Dato | Valor |
@@ -26,13 +21,13 @@ Se invitó como colaboradores a los 7 integrantes restantes (Settings, Collabora
 
 | Persona | Usuario de GitHub | Rol | Invitación aceptada |
 |---|---|---|---|
-| Alanis Nicolás | nicktails | Scrum Master | [Sí / No] |
-| Lopez Salomon Federico | federicolopezsalomon | Developer | [Sí / No] |
-| Mansilla David | Gabi9717 | Developer | [Sí / No] |
-| Marun Susana | susanapatriciamarun-jpg | Developer | [Sí / No] |
-| Miwszuk Hazahel | hazahelm-coder | Developer | [Sí / No] |
-| Perez Cristian | CodePCD | Product Owner | [Sí / No] |
-| Veliz Julieta | julietavelizunpilar-oss | Developer | [Sí / No] |
+| Alanis Nicolás | nicktails | Scrum Master | Sí |
+| Lopez Salomon Federico | federicolopezsalomon | Developer | Sí |
+| Mansilla David | Gabi9717 | Developer | Sí |
+| Marun Susana | susanapatrciamarun-jpg | Developer | No |
+| Miwszuk Hazahel | hazahelm-coder | Developer | Sí |
+| Perez Cristian | CodePCD | Product Owner | Sí |
+| Veliz Julieta | julietavelizunpilar-oss | Developer | Sí |
 
 ### Captura 2: lista de colaboradores
 ![Colaboradores](captura_02_colaboradores.png)
