@@ -8,17 +8,4 @@ Relevar modelo, conexión y driver disponible de cada impresora del Estudio para
 **Criterio de aceptación:** Planilla con modelo, conexión y driver disponible para Windows 11 y Ubuntu.
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
-
-## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
-
-<!-- ![Descripción de la captura](captura_01.png) -->
-
-## Conclusión
-[COMPLETAR]
+(https://docs.google.com/document/d/1kVXYOD_C9j03phVTdrPe3okbSWUlyMNjb83eBdSl-qc/edit?usp=sharing)
