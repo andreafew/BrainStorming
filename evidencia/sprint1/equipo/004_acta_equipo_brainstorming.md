@@ -18,7 +18,7 @@ La consultora se denomina BrainStorming y está integrada por ocho personas. Tod
 | 2 |	Arroyo Andrea | andreafew |
 | 3	| Lopez Salomon Federico	| federicolopezsalomon |
 | 4	| Mansilla David	| Gabi9717 |
-| 5	| Marun Susana	| susanapatriciamarun-jpg |
+| 5	| Marun Susana	| susanapatrciamarun-jpg |
 | 6	| Miwszuk Hazahel	| hazahelm-coder| 
 | 7	| Perez Cristian	| CodePCD| 
 | 8	| Veliz Julieta	| julietavelizunpilar-oss| 
@@ -29,8 +29,8 @@ En Scrum, el Product Owner es la voz del cliente y prioriza el trabajo; el Scrum
 ## Tabla 2. Rotación de roles
 | Sprint | Product Owner | Scrum Master |
 |---|---|---|
-| 1 | Perez Cristian | Alanis Nicolás |
-| 2 | Arroyo Andrea | Lopez Salomon Federico |
+| 1 | Arroyo Andrea | Lopez Salomon Federico |
+| 2 | Perez Cristian | Alanis Nicolás |
 | 3 | Mansilla David | Marun Susana |
 | 4 | Miwszuk Hazahel | Veliz Julieta |
 
