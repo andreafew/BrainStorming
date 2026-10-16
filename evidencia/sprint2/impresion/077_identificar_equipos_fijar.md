@@ -8,12 +8,12 @@ Asignar IP fija a cada impresora del Estudio sin conflictos y comprobarlo con pi
 **Criterio de aceptación:** Tabla de IP fijas sin conflictos, comprobada con ping.
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
+Se configuraron IPs fijas fuera del rango DHCP del router del estudio. Se validó la conectividad con ping desde 3 equipos aleatorios.
 
 ## Datos y resultados
-| Dato | Valor | Fuente / fecha |
+| Impresora | Modelo | IP Fija | 
 |---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+|  | [COMPLETAR] | [COMPLETAR] |
 
 ## Capturas
 Subir las imágenes a esta misma carpeta y enlazarlas así:
