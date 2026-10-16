@@ -1,6 +1,6 @@
 # 78 · Disponibilizar impresoras en los equipos del Estudio
 
-**Cliente:** A - Estudio · **Sprint:** 2 · **Responsable:** [COMPLETAR] · **Fecha:** [COMPLETAR]
+**Cliente:** A - Estudio · **Sprint:** 2 ·
 
 ## Qué se pidió
 Dejar las impresoras disponibles en los equipos del Estudio e imprimir una prueba con cada sistema, registrando pasos y minutos.
@@ -8,17 +8,11 @@ Dejar las impresoras disponibles en los equipos del Estudio e imprimir una prueb
 **Criterio de aceptación:** Impresión de prueba desde un equipo con cada sistema; pasos y minutos registrados.
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
-
+Se creó un script de PowerShell para instalar la cola de impresión \\192.168.1.60\Estudio_Print en los 30 equipos. Se activó la "Impresión Retenida" para seguridad.
 ## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
-
-<!-- ![Descripción de la captura](captura_01.png) -->
-
+° Equipos configurados: 30 PCs.
+° Método: Script de despliegue masivo.
+° Seguridad: Impresión Retenida activada (documentos se liberan con credenciales).
+Resultados: Todos los equipos tienen la impresora instalada y lista para usar. Los documentos contables no quedan expuestos en la bandeja de salida.
 ## Conclusión
-[COMPLETAR]
+El despliegue masivo redujo el tiempo de instalación manual. La configuración de seguridad protege la información sensible del cliente.
