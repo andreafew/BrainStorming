@@ -1,6 +1,6 @@
 # 82 · Identificar equipos y fijar IP de impresoras de la Universidad
 
-**Cliente:** B - Universidad · **Sprint:** 2 · **Responsable:** [COMPLETAR] · **Fecha:** [COMPLETAR]
+**Cliente:** B - Universidad · **Sprint:** 2 ·
 
 ## Qué se pidió
 Asignar IP fija a cada impresora de la Universidad sin conflictos y comprobarlo con ping.
