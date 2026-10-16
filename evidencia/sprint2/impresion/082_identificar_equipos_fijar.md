@@ -11,9 +11,10 @@ Asignar IP fija a cada impresora de la Universidad sin conflictos y comprobarlo 
 Se configuraron IPs fijas fuera del rango DHCP de la universidad. Se validó con ping desde 3 equipos.
 
 ## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| Impresora | Modelo | IP Fija | Ubicación | Ping|
+|---|---|---|---|---|
+| Mono 1 | Brother HL-L2460DW | 192.168.1.50 | Sala A | Exitoso (TTL=64)|
+| Color 1 |  HP OfficeJet Pro 9132e | 192.168.1.51 | Sala B | Exitoso (TTL=64)|
 
 
 ## Conclusión
