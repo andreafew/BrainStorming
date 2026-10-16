@@ -1,6 +1,6 @@
 # 77 · Identificar equipos y fijar IP de impresoras del Estudio
 
-**Cliente:** A - Estudio · **Sprint:** 2 · **Responsable:** [COMPLETAR] · **Fecha:** [COMPLETAR]
+**Cliente:** A - Estudio · **Sprint:** 2 · 
 
 ## Qué se pidió
 Asignar IP fija a cada impresora del Estudio sin conflictos y comprobarlo con ping.
