@@ -11,7 +11,7 @@ Asignar IP fija a cada impresora del Estudio sin conflictos y comprobarlo con pi
 Se configuraron IPs fijas fuera del rango DHCP del router del estudio. Se validó la conectividad con ping desde 3 equipos aleatorios.
 
 ## Datos y resultados
-| Impresora | Modelo | IP Fija | 
+| Impresora | Modelo | IP Fija | Ubicación | Ping |
 |---|---|---|
 |  | [COMPLETAR] | [COMPLETAR] |
 
