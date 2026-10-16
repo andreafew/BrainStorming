@@ -11,9 +11,9 @@ Asignar IP fija a cada impresora del Estudio sin conflictos y comprobarlo con pi
 Se configuraron IPs fijas fuera del rango DHCP del router del estudio. Se validó la conectividad con ping desde 3 equipos aleatorios.
 
 ## Datos y resultados
-| Impresora | Modelo | IP Fija | Ubicación | Ping |
+| Impresora | Modelo | IP Fija |
 |---|---|---|
-|  | [COMPLETAR] | [COMPLETAR] |
+| Mono Rápida | Brother HL-L2460DW | 192.168.1.60 |
 
 ## Capturas
 Subir las imágenes a esta misma carpeta y enlazarlas así:
