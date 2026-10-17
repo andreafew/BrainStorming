@@ -13,6 +13,8 @@ Se creó un script de PowerShell para instalar la cola de impresión \\192.168.1
 ° Equipos configurados: 30 PCs.
 ° Método: Script de despliegue masivo.
 ° Seguridad: Impresión Retenida activada (documentos se liberan con credenciales).
-Resultados: Todos los equipos tienen la impresora instalada y lista para usar. Los documentos contables no quedan expuestos en la bandeja de salida.
+
+## Resultados
+Todos los equipos tienen la impresora instalada y lista para usar. Los documentos contables no quedan expuestos en la bandeja de salida.
 ## Conclusión
 El despliegue masivo redujo el tiempo de instalación manual. La configuración de seguridad protege la información sensible del cliente.
