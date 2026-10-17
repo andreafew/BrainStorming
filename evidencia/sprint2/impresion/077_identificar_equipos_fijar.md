@@ -16,7 +16,8 @@ Se configuraron IPs fijas fuera del rango DHCP del router del estudio. Se valid�
 | Color Multifunción | HP OfficeJet Pro 9132e	| 192.168.1.61 | Área Balances | Exitoso (TTL=64)|
 | Mono Rápida | Brother HL-L2460DW | 192.168.1.60 | Pasillo Central| Exitoso (TTL=64)|
 
-Resultados: Se creó la tabla de IPs sin conflictos. La conectividad fue validada con éxito desde múltiples equipos.
+## Resultados
+Se creó la tabla de IPs sin conflictos. La conectividad fue validada con éxito desde múltiples equipos.
 
 ## Conclusión
 Las impresoras tienen direccionamiento estático, lo que garantiza que los 30 equipos siempre las encuentren en la red, evitando reconfiguraciones por cambios de IP.
