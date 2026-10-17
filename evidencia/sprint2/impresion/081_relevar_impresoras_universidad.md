@@ -15,7 +15,8 @@ Se inventariaron las impresoras del laboratorio. Se detectó que solo tienen con
 °Drivers: No hay drivers oficiales para Ubuntu.
 °Cantidad necesaria: 1 impresora cada 8-10 equipos (2 impresoras para 25 PCs).
 
-Resultados: Se propuso la compra de un Print Server (adaptador USB a Ethernet) para convertir las impresoras en dispositivos de red, respetando la restricción presupuestaria.
+## Resultados 
+Se propuso la compra de un Print Server (adaptador USB a Ethernet) para convertir las impresoras en dispositivos de red, respetando la restricción presupuestaria.
 
 ## Conclusión
 La solución del Print Server permite reutilizar el hardware existente y cumple con el requisito de conectividad para los 25 equipos.
