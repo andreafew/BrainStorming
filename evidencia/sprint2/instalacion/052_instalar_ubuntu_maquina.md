@@ -8,9 +8,9 @@ Instalar Ubuntu en la máquina virtual siguiendo los 10 pasos, registrando captu
 **Criterio de aceptación:** Bitácora de 10 pasos con captura y tiempo de cada uno.
 
 ## Qué se hizo
-Se cargo archivo PDF con los pasos seguidos para la instalacion del SO propuesto
+Se creo el siguiente archivo PDF con los pasos seguidos para la instalacion del SO propuesto:
 
-
+[Instalacion SO Ubuntu Laboratorio.pdf](https://github.com/user-attachments/files/33642744/Instalacion.SO.Ubuntu.Laboratorio.pdf)
 
 
 
