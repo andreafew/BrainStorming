@@ -8,17 +8,11 @@ Instalar Ubuntu en la máquina virtual siguiendo los 10 pasos, registrando captu
 **Criterio de aceptación:** Bitácora de 10 pasos con captura y tiempo de cada uno.
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
+Se cargo archivo PDF con los pasos seguidos para la instalacion del SO propuesto
 
-## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
 
-<!-- ![Descripción de la captura](captura_01.png) -->
+
 
 ## Conclusión
-[COMPLETAR]
+El SO propuesto es de facil instalacion y mantenimiento
