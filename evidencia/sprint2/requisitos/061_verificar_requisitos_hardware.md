@@ -8,17 +8,15 @@ Marcar cada equipo de ambos clientes como apto o no apto para Windows 11 según 
 **Criterio de aceptación:** Cada equipo marcado como apto o no apto (TPM 2.0, UEFI/Secure Boot, RAM, disco).
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
+Supuestos de computadoras y licencias ya disponibles.
 
 ## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+Se "registraron"
 
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
-
-<!-- ![Descripción de la captura](captura_01.png) -->
+* 20 computadoras que precisan reemplazo. 
+* 10 computadoras compatibles con requisitos de hardware. (3 ya tienen licencia Windows 11 pro- 7 precisan licencias)
 
 ## Conclusión
-[COMPLETAR]
+* Se precisan adquirir licencias 27 licencias y 20 equipos. 
+* Realizar cotización de equipos licenciados y sin licencias. 
+
