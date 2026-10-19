@@ -8,17 +8,8 @@ Instalar Windows 11 en la máquina virtual siguiendo los 10 pasos, registrando c
 **Criterio de aceptación:** Bitácora de 10 pasos con captura y tiempo de cada uno.
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
-
-## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
-
-<!-- ![Descripción de la captura](captura_01.png) -->
+Se comparte documento en Google docs:
+https://docs.google.com/document/d/1yKSx1i9g3SqH-Z9gdIt-3Syw74NflyNUoHnkt-q4Vy8/edit?usp=sharing 
 
 ## Conclusión
-[COMPLETAR]
+Tarea exitosa, se evaluará rendimiento y comparará con Ubuntu en Sprint 3.
