@@ -8,17 +8,11 @@ Comparar al menos dos proveedores de nube (precio mensual, fuente y fecha) y dim
 **Criterio de aceptación:** Al menos 2 proveedores con precio mensual (fuente y fecha), CPU/RAM/disco dimensionados y licencia de servidor incluida en el costo.
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
+Se define seleccionar Microsoft (Azure) como servicio de servidores en nube por ser el sistema nativo para Windows ya que es un requisito del sistema Tango que se desea mantener. 
 
-## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+Se notifica al cliente que el servicio de Tango actualemente ofrece servicios en nube que puede considerar para reemplazar su arquitectura a futuro. 
 
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
 
-<!-- ![Descripción de la captura](captura_01.png) -->
 
 ## Conclusión
-[COMPLETAR]
+La selección de SO como Servicio de Servidores se inclina a Azure segun los requerimientos del cliente recolectados al momento. 
