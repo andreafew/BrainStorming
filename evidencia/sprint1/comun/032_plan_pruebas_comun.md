@@ -44,12 +44,11 @@ Referencia: Microsoft exige para Windows 11 un mínimo de 4 GB de RAM, 2 núcleo
 
 ## 3. Reglas comunes a todas las pruebas
 1. Cada prueba se repite **3 veces** y se informa la **mediana**, salvo que el backlog indique otra cosa.
-2. Siempre se usa la misma máquina anfitriona y la misma configuración de máquina virtual para ambos sistemas.
+2. Siempre se documenta cual es la máquina anfitriona y la misma configuración de máquina virtual para ambos sistemas.
 3. Antes de cada medición se reinicia la máquina virtual y no se abren programas que la prueba no pida.
-4. Las actualizaciones automáticas se dejan en el mismo estado en ambos sistemas (instaladas o postergadas, según se decida) y se anota cuál.
-5. Se registra la fecha, la hora y quién midió.
-6. Cada resultado se acompaña de una captura, un dato de terminal o un cronometraje, guardado en `evidencia/` y enlazado desde la tabla de resultados.
-7. Lo que no se pudo comprobar se marca como «leído, no comprobado» y se cita la fuente. No se presenta como medido.
+4. Se registra la fecha, la hora y quién midió.
+5 Cada resultado se acompaña de una captura, un dato de terminal o un cronometraje, guardado en `evidencia/` y enlazado desde la tabla de resultados.
+6. Lo que no se pudo comprobar se marca como «leído, no comprobado» y se cita la fuente. No se presenta como medido.
 
 ## 4. Programas abiertos en cada prueba
 | Prueba | Programas abiertos |
@@ -80,7 +79,7 @@ Referencia: Microsoft exige para Windows 11 un mínimo de 4 GB de RAM, 2 núcleo
 - Una máquina virtual **no equivale a un equipo real**: el rendimiento depende de la notebook anfitriona y de lo que esté usando en ese momento.
 - Las notebooks de los integrantes **no reproducen** las computadoras de escritorio del laboratorio de la Universidad ni los equipos del Estudio.
 - Los tiempos de restauración y de despliegue son orientativos, porque no se prueban sobre los 30 equipos del Estudio ni sobre los 25 de la Universidad.
-- Los resultados sirven para comparar un sistema con otro **en las mismas condiciones**, no para predecir valores absolutos en el cliente.
+- Los resultados sirven para comparar un sistema con otro **en las mismas condiciones**, no para predecir valores absolutos en el cliente. 
 
 [COMPLETAR: otras limitaciones que el equipo detecte]
 
