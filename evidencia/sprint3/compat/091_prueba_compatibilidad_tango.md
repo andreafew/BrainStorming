@@ -9,7 +9,9 @@ Probar las funciones de Tango (supuesto), planillas, correo y firma digital en a
 
 ## Qué se hizo
 Se relevaron los requisitos del sistema de gestión de la empresa. 
-Fuente: https://ayudas.axoft.com/25ar/instalacion/ 
+Fuente Tango: https://ayudas.axoft.com/25ar/instalacion/ 
+Sistema de Firma Electrónica y Digital: https://www.xolido.com/www.xolido.com/lang/xolidosign/modulo/xolidosign-desktop/descargar/index.html 
+
 
 **Detalles importantes: 
 ****Servidor para Tango multiusuario**
@@ -40,6 +42,13 @@ Servidor de accesos Tango: conexión a Internet.
 Para la instalación: dirección de correo electrónico.
 WIFI: en el caso de utilizar conexión WiFi, se recomienda tener una red dedicada para el sistema Tango.
 Base de datos: en caso de utilizar un servidor SQL previamente instalado, se recomienda utilizar la última versión de SQL Server con el Service Pack más reciente disponible.
+
+**SISTEMA DE FIRMA ELECTRÓNICA  (XOLIDO)**
+Fuente: https://www.xolido.com/www.xolido.com/lang/xolidosign/modulo/xolidosign-desktop/descargar/index.html 
+
+Compatibilidad con SO y Software de licencia gratuita. 
+
+
 
 ## Capturas
 Subir las imágenes a esta misma carpeta y enlazarlas así:
