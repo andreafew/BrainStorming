@@ -8,17 +8,12 @@ Aplicar y verificar los permisos por grupo en el laboratorio de la Universidad.
 **Criterio de aceptación:** Permisos por grupo aplicados y verificados.
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
+Se generaron los perfiles diferenciados para alumnno y docente con los requisitos solicitados por el cliente, se adjunta archivo con las capturas de las pruebas realizadas en ambos perfiles.
 
 ## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+[SO - Pruebas.pdf](https://github.com/user-attachments/files/33943672/SO.-.Pruebas.pdf)
 
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
-
-<!-- ![Descripción de la captura](captura_01.png) -->
 
 ## Conclusión
-[COMPLETAR]
+
+Los perfiles creados superan las pruebas exitosamente
