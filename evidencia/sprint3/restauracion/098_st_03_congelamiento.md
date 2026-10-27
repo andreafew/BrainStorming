@@ -8,17 +8,10 @@ Instalar y borrar programas y archivos, restaurar el equipo y medir el tiempo y 
 **Criterio de aceptación:** Se instalan y borran programas y archivos, se restaura y se mide el tiempo y los cambios revertidos.
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
+En el archivo adjunto se encuentran las pruebas realizadas en el entorno creado. Se instalo una aplicacion y se crearon dos archivos diferentes uno guardado en la carpeta creado para que el alumno guarde sus proyectos y otro en el escritorio. Tanto la aplicacion instalada como los archivos guardados fuera de la carpeta indicada para proyectos fueron eliminados al reiniciar la sesion.
+[SO.-.Pruebas.pdf](https://github.com/user-attachments/files/33992059/SO.-.Pruebas.pdf)
 
-## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
-
-<!-- ![Descripción de la captura](captura_01.png) -->
 
 ## Conclusión
-[COMPLETAR]
+Se realizaron las pruebas solicitadas por el cliete y el sistema responde correctamente.
