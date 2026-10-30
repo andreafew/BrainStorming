@@ -33,6 +33,13 @@ Se consultaron las fuentes oficiales de Microsoft y de Ubuntu para cotizar el si
 - **Windows 11 Pro Education (alternativa de compra):** solo si no hay convenio previo. Pago único perpetuo mediante un distribuidor educativo autorizado. Se cotiza como actualización masiva (upgrade) para las terminales del laboratorio.
 - **Soporte opcional de Ubuntu (Ubuntu Pro Base):** plan que proporciona parches automáticos de seguridad y cumplimiento legal por 10 años, ideal para un entorno educativo sin requerir soporte telefónico corporativo.
 
+Soporte: 
+**Windows 11 - release information | Microsoft Learn  (oct-2028)** 
+https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information 
+
+**Ubuntu release cycle | Ubuntu  may/27 (standard)** 
+https://ubuntu.com/about/release-cycle?product=ubuntu&release=ubuntu&version=22.04+LTS 
+
 ## Conclusión
 Para los 25 equipos del laboratorio, la licencia de Windows 11 Education cuesta USD 0 si la Universidad tiene un contrato activo de Microsoft 365 (A3/A5). Si no lo tiene, la alternativa es Windows 11 Pro Education, con un pago único de USD 562,50. Ubuntu no tiene costo de licencia, y su soporte opcional (Ubuntu Pro Base) cuesta USD 625,00 por año. En licencias, la opción más económica es Ubuntu, sin costo, o Windows 11 Education si existe el contrato. Falta confirmar con la Universidad si tiene ese contrato.
 
