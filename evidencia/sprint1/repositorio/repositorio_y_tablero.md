@@ -23,7 +23,7 @@ Se invitó como colaboradores a los 7 integrantes restantes (Settings, Collabora
 |---|---|---|---|
 | Alanis Nicolás | nicktails | Scrum Master | Sí |
 | Lopez Salomon Federico | federicolopezsalomon | Developer | Sí |
-| Mansilla David | Gabi9717 | Developer | Sí |
+| Mancilla David | Gabi9717 | Developer | Sí |
 | Marun Susana | susanapatrciamarun-jpg | Developer | No |
 | Miwszuk Hazahel | hazahelm-coder | Developer | Sí |
 | Perez Cristian | CodePCD | Product Owner | Sí |
