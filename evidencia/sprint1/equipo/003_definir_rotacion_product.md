@@ -10,8 +10,10 @@ Como equipo, necesitamos definir quién es Product Owner y quién Scrum Master e
 ## Datos y resultados
 | Sprint | Product Owner | Scrum Master |
 |---|---|---|
-| 1 | Perez Cristian | Alanis Nicolás |
-| 2 | Arroyo Andrea | Lopez Salomon Federico |
-| 3 | Mansilla David | Marun Susana |
-| 4 | Miwszuk Hazahel | Veliz Julieta |
+| 1 | Arroyo Andrea | Lopez Salomon Federico |
+| 2 | Perez Cristian | Alanis Nicolás |
+| 3 | Veliz Julieta | Miwszuk Hazahel |
+| 4 | Mancilla David | Marun Susana |
+
+
 
