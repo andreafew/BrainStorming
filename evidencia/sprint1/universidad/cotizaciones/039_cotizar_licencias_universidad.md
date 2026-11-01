@@ -24,7 +24,7 @@ Se consultaron las fuentes oficiales de Microsoft y de Ubuntu para cotizar el si
 | N.º | Producto y edición | Cantidad | Tipo de licencia | Precio unitario | Total | Moneda | Fuente oficial (enlace o documento) | Fecha de consulta |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Windows 11 Education (opción recomendada) | 25 | Académica / Volumen (suscripción) | 0,00 | 0,00 | USD | https://www.microsoft.com/es-es/education/products/windows | Octubre 2026 |
-| 2 | Windows 11 Pro Education (alternativa de compra) | 25 | Académica / Perpetua | 22,50 | 562,50 | USD | https://www.microsoft.com/es-es/education/how-to-buy | Octubre 2026 |
+| 2 | Windows 11 Pro Education (alternativa de compra) | 25 | Académica / Perpetua | 168 | 4200 | USD | https://www.microsoft.com/es-ar/d/windows-11-pro/dg7gmgf0d8h4 | Octubre 2026 |
 | 3 | Soporte opcional de Ubuntu (Ubuntu Pro Base) | 25 | Suscripción anual de infraestructura | 25,00 | 625,00 | USD | https://ubuntu.com/pricing/pro | Octubre 2026 |
 | 4 | Ubuntu (licencia) | 25 | Sin costo | Sin costo | Sin costo | - | - | - |
 
