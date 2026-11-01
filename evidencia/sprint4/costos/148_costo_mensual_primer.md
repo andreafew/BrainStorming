@@ -9,9 +9,12 @@ Calcular el costo mensual y anual de la nube por cliente con precio vigente, fue
 
 ## Qué se hizo
 
+SERVIDOR EN NUBE AZURE 
 Se cotizan los servicios en Azure para pago por uso mensual en https://azure.microsoft.com/es-es/pricing/calculator/ .
 <img width="1432" height="660" alt="image" src="https://github.com/user-attachments/assets/3c17fcf8-be11-4720-bec7-de4eb5a507fc" />
 
+
+LICENCIAS 
 
 
 ## Conclusión
