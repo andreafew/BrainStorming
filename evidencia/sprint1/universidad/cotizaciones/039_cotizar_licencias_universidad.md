@@ -41,5 +41,5 @@ https://learn.microsoft.com/en-us/windows/release-health/windows11-release-infor
 https://ubuntu.com/about/release-cycle?product=ubuntu&release=ubuntu&version=22.04+LTS 
 
 ## Conclusión
-Para los 25 equipos del laboratorio, la licencia de Windows 11 Education cuesta USD 0 si la Universidad tiene un contrato activo de Microsoft 365 (A3/A5). Si no lo tiene, la alternativa es Windows 11 Pro Education, con un pago único de USD 562,50. Ubuntu no tiene costo de licencia, y su soporte opcional (Ubuntu Pro Base) cuesta USD 625,00 por año. En licencias, la opción más económica es Ubuntu, sin costo, o Windows 11 Education si existe el contrato. Falta confirmar con la Universidad si tiene ese contrato.
+Para los 25 equipos del laboratorio, la licencia de Windows 11 Education cuesta USD 0 si la Universidad tiene un contrato activo de Microsoft 365 (A3/A5). Si no lo tiene, la alternativa es Windows 11 Pro Education, con un pago único de USD 4200. Ubuntu no tiene costo de licencia, y su soporte opcional (Ubuntu Pro Base) cuesta USD 625,00 por año. En licencias, la opción más económica es Ubuntu, sin costo, o Windows 11 Education si existe el contrato. Falta confirmar con la Universidad si tiene ese contrato.
 
