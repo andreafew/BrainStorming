@@ -8,17 +8,11 @@ Calcular el costo mensual y anual de la nube por cliente con precio vigente, fue
 **Criterio de aceptación:** Costo mensual y anual por cliente con precio vigente, fuente y fecha; incluido en la matriz de costos.
 
 ## Qué se hizo
-[COMPLETAR: descripción breve de lo que se hizo, paso a paso]
 
-## Datos y resultados
-| Dato | Valor | Fuente / fecha |
-|---|---|---|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+Se cotizan los servicios en Azure para pago por uso mensual en https://azure.microsoft.com/es-es/pricing/calculator/ .
+<img width="1432" height="660" alt="image" src="https://github.com/user-attachments/assets/3c17fcf8-be11-4720-bec7-de4eb5a507fc" />
 
-## Capturas
-Subir las imágenes a esta misma carpeta y enlazarlas así:
 
-<!-- ![Descripción de la captura](captura_01.png) -->
 
 ## Conclusión
-[COMPLETAR]
+Considerar inversión en una siguiente instancia ya que el estudio debe realizar una inversión considerable sobre las el proceso de migración actual y adquisición de equipos. 
